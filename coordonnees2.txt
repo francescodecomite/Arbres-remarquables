@@ -1,0 +1,28 @@
+12536,52012,14,3,500,RUE DES CAMPAGNES,P,A,2022-01-26T00:00:00,6,Arbre ou haie sans tare ou défaut macroscopiquement visible,449,29,1996,"T,P",I,P,,Parc communal.,,,O,Tilia,tomentosa,,Tilleul argenté,POINT (160376.721000001 120782.017999999)
+2923 160376.721000001 120782.017999999
+10311,52012,15,1,501,"RUE DE LA GISSIERE, 55-49",V,A,2022-01-26T00:00:00,6,Arbre ou haie sans tare ou défaut macroscopiquement visible,190,18,1996,P,I,V,,Mesure estimée.,,,O,Aesculus,hippocastanum,,Marronnier d'Inde,POINT (160291.82 120987.515999999)
+3638 160291.82 120987.515999999
+8963,52012,43,1,501,"RUE BLANCHE BORNE, 102",V,A,2022-01-26T00:00:00,6,Arbre ou haie sans tare ou défaut macroscopiquement visible,246,20,1997,P,I,U,,Planté à l'avant de la maison vers 1920.,,,O,Tilia,platyphyllos,,Tilleul à grandes feuilles,POINT (159217.079999998 119978.002999999)
+5061 159217.079999998 119978.002999999
+8674,52012,14,4,500,RUE DES CAMPAGNES,P,A,2022-01-26T00:00:00,6,Arbre ou haie sans tare ou défaut macroscopiquement visible,369,27,1996,"T,P",I,P,,Parc communal.,,,O,Fagus,sylvatica,Atropunicea,Hêtre pourpre,POINT (160244.605999999 120780.888999999)
+5193 160244.605999999 120780.888999999
+19503,52012,2,5,501,"RUE ERNEST SOLVAY, 39",P,A,2022-01-26T00:00:00,5,Arbre ou haie ayant subi une taille (silhouette) mais qui ne porte pas atteinte à sa stabilité et à sa longévité ,334,11,1996,"T,P",I,U,,Ecole communale.,,,O,Aesculus,hippocastanum,,Marronnier d'Inde,POINT (160236.644000001 119978.311000001)
+7360 160236.644000001 119978.311000001
+4189,52012,14,2,500,RUE DES CAMPAGNES,P,A,2022-01-26T00:00:00,6,Arbre ou haie sans tare ou défaut macroscopiquement visible,394,31,1996,"T,P",I,P,,Parc communal.,,,O,Fagus,sylvatica,Atropunicea,Hêtre pourpre,POINT (160378.979000002 120658.936000001)
+8066 160378.979000002 120658.936000001
+9703,52012,2,4,501,"RUE ERNEST SOLVAY, 39",P,A,2022-01-26T00:00:00,5,Arbre ou haie ayant subi une taille (silhouette) mais qui ne porte pas atteinte à sa stabilité et à sa longévité ,255,13,1996,"T,P",I,U,,Ecole communale.,,,O,Aesculus,hippocastanum,,Marronnier d'Inde,POINT (160229.883000001 119973.802999999)
+8473 160229.883000001 119973.802999999
+4650,52012,35,1,500,"AVENUE EMILE VANDERVELDE, 184",V,A,2022-01-26T00:00:00,6,Arbre ou haie sans tare ou défaut macroscopiquement visible,279,29,1996,P,I,P,,,,,O,Aesculus,hippocastanum,,Marronnier d'Inde,POINT (160702.479000002 120627.164999999)
+9878 160702.479000002 120627.164999999
+1694,52012,14,1,500,RUE DES CAMPAGNES,P,A,2022-01-26T00:00:00,6,Arbre ou haie sans tare ou défaut macroscopiquement visible,436,19,1996,"T,P",I,P,,Parc communal.,,,O,Tilia,tomentosa,,Tilleul argenté,POINT (160249.123000003 120660.066)
+11610 160249.123000003 120660.066
+2702,52012,36,2,501,"RUE DE LA BIESME, 21",V,A,2022-01-26T00:00:00,6,Arbre ou haie sans tare ou défaut macroscopiquement visible,303,30,1996,"T,P",I,P,,Devrait être dégagé.,,,O,Taxodium,distichum,,Cyprès chauve,POINT (160494.865000002 120600.583999999)
+11831 160494.865000002 120600.583999999
+20149,52012,2,2,501,"RUE ERNEST SOLVAY, 39",P,A,2022-01-26T00:00:00,5,Arbre ou haie ayant subi une taille (silhouette) mais qui ne porte pas atteinte à sa stabilité et à sa longévité ,163,11,1996,P,I,U,,Ecole communale.,,,O,Tilia,x europaea,,Tilleul de Hollande,POINT (160242.560000002 119936.333999999)
+13602 160242.560000002 119936.333999999
+18629,52012,2,3,501,"RUE ERNEST SOLVAY, 39",P,A,2022-01-26T00:00:00,5,Arbre ou haie ayant subi une taille (silhouette) mais qui ne porte pas atteinte à sa stabilité et à sa longévité ,232,11,1996,P,I,U,,Ecole communale.,,,O,Tilia,x europaea,,Tilleul de Hollande,POINT (160249.321999997 119940.559999999)
+15456 160249.321999997 119940.559999999
+13800,52012,2,1,501,"RUE ERNEST SOLVAY, 39",P,A,2022-01-26T00:00:00,5,Arbre ou haie ayant subi une taille (silhouette) mais qui ne porte pas atteinte à sa stabilité et à sa longévité ,312,11,1996,"T,P",I,U,,Ecole communale.,,,O,Aesculus,hippocastanum,,Marronnier d'Inde,POINT (160237.207999997 119945.348999999)
+16468 160237.207999997 119945.348999999
+8211,52012,36,1,501,"RUE DE LA BIESME, 21",V,A,2022-01-26T00:00:00,6,Arbre ou haie sans tare ou défaut macroscopiquement visible,288,28,1996,"T,P",I,P,,A l'arrière de l'ancien château.,,,O,Juglans,nigra,,Noyer noir d'Amérique,POINT (160470.921999998 120579.804000001)
+19383 160470.921999998 120579.804000001

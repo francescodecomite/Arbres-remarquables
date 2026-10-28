@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import osmium
 import re
 
-file_path = 'map.osm'  # Remplacez par le chemin de votre fichier
+file_path = 'map4.osm'  # Remplacez par le chemin de votre fichier
 
 # --- 1. EXTRACTION DES ENTIÈRES DU FICHIER ---
 # On extrait tous les "Ways" (lignes et polygones) qui possèdent des propriétés (tags)
@@ -72,7 +72,7 @@ from shapely.geometry import Point
 
 
 
-lesarbres=open("coordonnees.txt")
+lesarbres=open("coordonnees2.txt")
 i=0
 for ligne in lesarbres :
     i=i+1
