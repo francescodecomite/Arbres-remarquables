@@ -1,9 +1,16 @@
+# Les coordonnées de tous les arbres visibles sur la carte sont
+# dans le fichier coordonnees.txt
+# une ligne reprenant toutes les infos de la feuille de classeur
+# Suivie d'une ligne ne contenant que trois nombres :
+# Le numéro de la ligne du fichier initial (à vérifier)
+# et la longitude et la latitude
+
 import geopandas as gpd
 import matplotlib.subplots as plt
 import osmium
 from shapely.geometry import Point  # <--- Import nécessaire pour créer le point
 
-file_path = 'votre_fichier.osm.pbf'  # Remplacez par le chemin de votre fichier
+file_path = 'map.osm'  # Remplacez par le chemin de votre fichier
 
 # --- 1. CONFIGURATION DU POINT PERSO ---
 # Remplacez par vos coordonnées (Attention : Longitude d'abord, Latitude ensuite)
