@@ -13,7 +13,7 @@ x_belge = 69133.3699999973
 y_belge = 159913.017000001
 
 # --- 2. Lire les bornes du fichier OSM ---
-file_path = "map4.osm"
+file_path = "map.osm"
 
 tree = ET.parse(file_path)
 root = tree.getroot()
@@ -46,7 +46,7 @@ dans_le_cadre = (
     min_lat <= lat <= max_lat
     and min_lon <= lon <= max_lon
 )
-coordonnees=open("coordonnees2.txt",'w')
+coordonnees=open("coordonnees.txt",'w')
 lesarbres=open("./AHREM__ARBRES_31370.csv",encoding="cp1252", errors="ignore")
 i=0
 #print(len(list(lesarbres)))
